@@ -1,7 +1,7 @@
 ## Hola Amigos 👋
 
 
-My name is **Vasu Singh** and I am a 3rd year B.Tech student at MAIT, studying Information Technology. 😀
+My name is **Vasu Singh** and I am a final year B.Tech student at MAIT, studying Information Technology. 😀
 
 Here are some ideas to get you started:
 
