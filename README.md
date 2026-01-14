@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 		</tr>
 	</table>
 </div>
+
+Connect with me: [LinkedIn](https://www.linkedin.com/in/vasusingh1305/) | Mail: vasusingh1305@gmail.com
